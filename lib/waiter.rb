@@ -39,7 +39,7 @@ class Waiter
   end
  
   worst_tipped_meal
-   
+ 
  end
  
 end
